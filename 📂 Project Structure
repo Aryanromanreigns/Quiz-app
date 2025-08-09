@@ -1,0 +1,12 @@
+quiz_app/
+├── assets/                # Images, icons, and other assets
+├── lib/
+│   ├── main.dart           # App entry point
+│   ├── data/               # Quiz questions and answers
+│   ├── models/             # Data models
+│   ├── screens/            # Question, Result, and other screens
+│   ├── widgets/            # Reusable widgets
+├── pubspec.yaml            # Flutter dependencies
+├── README.md               # Project documentation
+├── CONTRIBUTING.md         # Contribution guidelines
+├── LICENSE                 # License information
